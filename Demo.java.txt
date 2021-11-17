@@ -4,8 +4,15 @@ public class A{
 public void m1()
 {
 
+}
+
+public void m2()
+{
+}
 system.out.println("tanu");
 
+public void m3()
+{
 }
 
 

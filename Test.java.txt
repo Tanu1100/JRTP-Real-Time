@@ -1,5 +1,11 @@
 public class A{
 
+
+public String uname;
+
+
 int i=10;
+
+
 
 }
